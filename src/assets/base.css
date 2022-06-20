@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+input{  
+	background:none;  
+	outline:none;  
+	border:none;
+}
+span{
+	text-align: left;
+}
+audio{
+	text-align: left;
+}
+p{
+	text-align: left;
+}
